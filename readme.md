@@ -2,7 +2,8 @@
 
 - Variavéis, Desvios Condicionais, Loops
 - Leitura e Escrita em arquivos
-
+- Velocímetro de digitação
+- Esteganografia (https://pt.wikipedia.org/wiki/Esteganografia)
 - O simulador Assembly
 - O Xadrez virtual (https://python-chess.readthedocs.io/en/latest/)
 
@@ -14,3 +15,4 @@
 
 ## Redes Neurais
 
+- Do neurônio a primeira rede totalmente conectada! 
