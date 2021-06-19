@@ -1,6 +1,7 @@
 ## Introdução à Programação
 
 - Variavéis, Desvios Condicionais, Loops
+- Strings
 - Listas, tuplas, e diconários
 - Funções
 - Módulos e Bibliotecas
