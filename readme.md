@@ -1,6 +1,6 @@
 ## Introdução à Programação
 
-- Variavéis, Desvios Condicionais, Loops
+- (Variavéis, Desvios Condicionais, Loops)[https://colab.research.google.com/drive/19Epp9hODoB9ylK4rRUwPstN91vPm1kRB?usp=sharing]
 - Strings
 - Listas, tuplas, e diconários
 - Funções
