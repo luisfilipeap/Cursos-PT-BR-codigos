@@ -30,6 +30,10 @@
   - Árvore de decisão
 - Aprendizagem não-supervisionada:
   - K-médias 
+- Aprendizagem por reforço:
+- Otimização:
+  - Algoritmos genéticos
+  - Otimização bayesiana
 
 ## Processamento Digital de Imagens
 
