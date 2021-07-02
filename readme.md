@@ -31,6 +31,7 @@
 - Aprendizagem não-supervisionada:
   - K-médias 
 - Aprendizagem por reforço:
+- Aprendizagem auto-supervisionada:
 - Otimização:
   - Algoritmos genéticos
   - Otimização bayesiana
