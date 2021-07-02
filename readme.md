@@ -41,11 +41,22 @@
   - Processamento de Linguagem Natural para análise de sentimento
   - Predição em séries temporais
   - IA para controle de pêndulo invertido (aprendizagem por reforço) - https://gym.openai.com/docs/#environments 
+- Tópicos especiais:
+  - IA vs. IA eXplicável (IAX)
 
 ## Processamento Digital de Imagens
 
-- Transformada de intensidade
+- Transformação de intensidade
+- Transformada de Fourier
+- Filtragem no espaço e na frequência
+- Detecção de pontos-chave (keypoints)
+- Segmentação de imagens
+- Morfologia matemática
+- Descritores morfológicos
 
 ## Redes Neurais Profundas
 
-- Do neurônio a primeira rede totalmente conectada! 
+- Redes Neurais Densamente Conectadas
+- Redes Neurais Convolucionais
+- Redes Neurais Recorrentes
+ 
