@@ -28,6 +28,7 @@
   - Aprendizado baseado em instâncias: k-vizinhos
   - Teorida da decisão Bayesiana
   - Árvore de decisão
+  - Redes Neurais Artificiais
 - Aprendizagem não-supervisionada:
   - K-médias 
 - Aprendizagem por reforço:
@@ -35,6 +36,11 @@
 - Otimização:
   - Algoritmos genéticos
   - Otimização bayesiana
+- Aplicações:
+  - Sistemas de recomendação
+  - Processamento de Linguagem Natural para análise de sentimento
+  - Predição em séries temporais
+  - IA para controle de pêndulo invertido (aprendizagem por reforço) - https://gym.openai.com/docs/#environments 
 
 ## Processamento Digital de Imagens
 
