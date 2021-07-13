@@ -54,9 +54,15 @@
 - Morfologia matemática
 - Descritores morfológicos
 
-## Redes Neurais Profundas
+## Redes Neurais
 
 - Redes Neurais Densamente Conectadas
 - Redes Neurais Convolucionais
+  - Classificação de imagens
+  - Segmentação de imagens
+  - Detecção de objetos 
+- Redes Neurais Generativas (GANs): pix2pix e cycleGAN
 - Redes Neurais Recorrentes
- 
+  - Processamento de Linguagem Natural: Análise de sentimento em texto
+  - Processamento de Linguagem Natural: Geração de texto
+- Aprendizagem por reforço através de Redes Neurais Densamente Conectadas
