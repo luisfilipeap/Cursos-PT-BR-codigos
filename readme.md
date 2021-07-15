@@ -11,7 +11,7 @@
 - Projetos:
   - Velocímetro de digitação
   - Esteganografia (https://pt.wikipedia.org/wiki/Esteganografia)
-  - O simulador Assembly
+  - Calculadora financeira
   - O xadrez virtual (https://python-chess.readthedocs.io/en/latest/)
 - Resoluções de questões da maratona de programação:
 
