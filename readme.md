@@ -17,7 +17,7 @@
 
 ## Ciência de Dados
 
-- Pré-processamento de dados: limpeza e otimização
+- [Pré-processamento de dados: limpeza e otimização](https://colab.research.google.com/drive/1Ihc68T-fLy5kqj1Ypxt9TuVtSnvdBNpQ?usp=sharing)
 - Regressão linear
 - Visualização de dados
 
