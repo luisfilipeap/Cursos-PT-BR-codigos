@@ -59,7 +59,7 @@
   - Classificação de imagens
   - Segmentação de imagens
   - Detecção de objetos 
-- Redes Neurais Generativas (GANs) 
+- Redes Neurais Generativas Adversarias (GANs) 
   - [pix2pix](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb#scrollTo=qmkj-80IHxnd)
   - [cycleGAN](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb)
 - Redes Neurais Recorrentes
