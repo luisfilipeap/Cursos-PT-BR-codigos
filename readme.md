@@ -18,9 +18,7 @@
 ## Ciência de Dados
 
 - [Pré-processamento de dados: limpeza e otimização](https://colab.research.google.com/drive/1Ihc68T-fLy5kqj1Ypxt9TuVtSnvdBNpQ?usp=sharing)
-- Regressão linear
-- Visualização de dados
-
+- Análise exploratória e visualização de dados
 
 ## Aprendizagem de Máquina
 
@@ -56,7 +54,7 @@
 
 ## Redes Neurais
 
-- Redes Neurais Densamente Conectadas
+- [Redes Neurais Densamente Conectadas](https://colab.research.google.com/drive/1wzv0X_Ze_OcTqvoISrw_j0pIsHnQ4Wg5?usp=sharing)
 - Redes Neurais Convolucionais
   - Classificação de imagens
   - Segmentação de imagens
