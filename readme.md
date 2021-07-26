@@ -20,6 +20,7 @@
 - [Pré-processamento de dados: limpeza e otimização](https://colab.research.google.com/drive/1Ihc68T-fLy5kqj1Ypxt9TuVtSnvdBNpQ?usp=sharing)
 - Análise exploratória e visualização de dados
 - Importando dados de um servidor SQL para um DataFrame Pandas
+- Manipulação de dados (https://www.analyticsvidhya.com/blog/2021/03/pandas-functions-for-data-analysis-and-manipulation/)
 
 ## Aprendizagem de Máquina
 
