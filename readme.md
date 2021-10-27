@@ -1,7 +1,7 @@
 ## Introdução à Programação
 
 - [Variavéis, Desvios Condicionais, Loops](https://colab.research.google.com/drive/19Epp9hODoB9ylK4rRUwPstN91vPm1kRB?usp=sharing)
-- Strings
+- [Strings](https://colab.research.google.com/drive/1GB8GjLSYS54aELlP53bcIcqz460xJQjM?usp=sharing)
 - Listas, tuplas, e diconários
 - Funções
 - Módulos e Bibliotecas
