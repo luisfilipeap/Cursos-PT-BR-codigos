@@ -2,7 +2,7 @@
 
 - [Variavéis, Desvios Condicionais, Loops](https://colab.research.google.com/drive/19Epp9hODoB9ylK4rRUwPstN91vPm1kRB?usp=sharing)
 - [Strings](https://colab.research.google.com/drive/1GB8GjLSYS54aELlP53bcIcqz460xJQjM?usp=sharing)
-- Listas, tuplas, e diconários
+- [Listas, tuplas, e diconários](https://colab.research.google.com/drive/1A82un8_kg1f1E6Z8ZLD8cX5Wi8d0zwQn?usp=sharing)
 - Funções
 - Módulos e Bibliotecas
 - Leitura e Escrita em arquivos
