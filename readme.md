@@ -58,7 +58,7 @@
 
 - [Redes Neurais Densamente Conectadas](https://colab.research.google.com/drive/1wzv0X_Ze_OcTqvoISrw_j0pIsHnQ4Wg5?usp=sharing)
 - Redes Neurais Convolucionais
-  - Classificação de imagens
+  - [Classificação de imagens](https://colab.research.google.com/drive/1yQcBaB3WH6wBi52hInO-G17l3Qp-1_jl?usp=sharing)
   - Segmentação de imagens
   - Detecção de objetos 
 - Redes Neurais Generativas Adversarias (GANs) 
