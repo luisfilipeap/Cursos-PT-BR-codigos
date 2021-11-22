@@ -4,7 +4,7 @@
 - [Strings](https://colab.research.google.com/drive/1GB8GjLSYS54aELlP53bcIcqz460xJQjM?usp=sharing)
 - [Listas, tuplas, e diconários](https://colab.research.google.com/drive/1A82un8_kg1f1E6Z8ZLD8cX5Wi8d0zwQn?usp=sharing)
 - [Funções](https://colab.research.google.com/drive/1NBSkmlfO1TSJ0P4dZXWHdA_1MNyjEnDV?usp=sharing)
-- Módulos e Bibliotecas
+- [Módulos e Bibliotecas](https://colab.research.google.com/drive/1ZDNeSeJbxb_B80pIrtZr-5RH_NCkQNtY?usp=sharing)
 - Leitura e Escrita em arquivos
 - Classes e Objetos
 
