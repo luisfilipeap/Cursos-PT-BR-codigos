@@ -5,7 +5,7 @@
 - [Listas, tuplas, e diconários](https://colab.research.google.com/drive/1A82un8_kg1f1E6Z8ZLD8cX5Wi8d0zwQn?usp=sharing)
 - [Funções](https://colab.research.google.com/drive/1NBSkmlfO1TSJ0P4dZXWHdA_1MNyjEnDV?usp=sharing)
 - [Módulos e Bibliotecas](https://colab.research.google.com/drive/1ZDNeSeJbxb_B80pIrtZr-5RH_NCkQNtY?usp=sharing)
-- Leitura e Escrita em arquivos
+- [Leitura e Escrita em arquivos](https://colab.research.google.com/drive/1fgPrBqN-RJMMwjPdM4YJWqvCrPV1IUte?usp=sharing)
 - Classes e Objetos
 
 - Projetos:
@@ -61,6 +61,7 @@
   - [Classificação de imagens](https://colab.research.google.com/drive/1yQcBaB3WH6wBi52hInO-G17l3Qp-1_jl?usp=sharing)
   - Segmentação de imagens
   - Detecção de objetos 
+  - [Template Tensorflow para treinamento de CNNs](https://colab.research.google.com/drive/1Gma57N7rUy1RdYtLRtPlPHpjd_iygaIT?usp=sharing)
 - Redes Neurais Generativas Adversarias (GANs) 
   - [pix2pix](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb#scrollTo=qmkj-80IHxnd)
   - [cycleGAN](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb)
