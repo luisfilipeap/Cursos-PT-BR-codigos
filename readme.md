@@ -6,7 +6,7 @@
 - [Funções](https://colab.research.google.com/drive/1NBSkmlfO1TSJ0P4dZXWHdA_1MNyjEnDV?usp=sharing)
 - [Módulos e Bibliotecas](https://colab.research.google.com/drive/1ZDNeSeJbxb_B80pIrtZr-5RH_NCkQNtY?usp=sharing)
 - [Leitura e Escrita em arquivos](https://colab.research.google.com/drive/1fgPrBqN-RJMMwjPdM4YJWqvCrPV1IUte?usp=sharing)
-- Classes e Objetos
+- [Classes e Objetos](https://colab.research.google.com/drive/1Ktw62cnrxYMZSal-pt0366PQmDFJat1M?usp=sharing)
 
 - Projetos:
   - Velocímetro de digitação
