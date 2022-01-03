@@ -13,7 +13,27 @@
   - Esteganografia (https://pt.wikipedia.org/wiki/Esteganografia)
   - Calculadora financeira
   - O xadrez virtual (https://python-chess.readthedocs.io/en/latest/)
-- Resoluções de questões da maratona de programação:
+
+## Programação Competitiva I
+
+- Complexidade
+- Estruturas de dados essenciais
+  - As estruturas básicas
+  - Implementações em bibliotecas
+  - Quando utilizar cada estrutura 
+- Busca binária
+- Strings
+  - String hash
+  - Função Z
+  - Array de sufixos
+  - Modelando strings com autômatos
+- Ordenação
+- Combinatória
+  - Calculando arranjos
+  - Calculando combinações
+  - Calculando permutações
+- Programação Dinâmica
+- Grafos
 
 ## Ciência de Dados
 
