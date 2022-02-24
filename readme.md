@@ -14,27 +14,6 @@
   - Calculadora financeira
   - O xadrez virtual (https://python-chess.readthedocs.io/en/latest/)
 
-## Programação Competitiva I
-
-- Complexidade
-- Estruturas de dados essenciais
-  - As estruturas básicas
-  - Implementações em bibliotecas
-  - Quando utilizar cada estrutura 
-- Busca binária
-- Strings
-  - String hash
-  - Função Z
-  - Array de sufixos
-  - Modelando strings com autômatos
-- Ordenação
-- Combinatória
-  - Calculando arranjos
-  - Calculando combinações
-  - Calculando permutações
-- Programação Dinâmica
-- Grafos
-
 ## Ciência de Dados
 
 - [Pré-processamento de dados: limpeza e otimização](https://colab.research.google.com/drive/1Ihc68T-fLy5kqj1Ypxt9TuVtSnvdBNpQ?usp=sharing)
