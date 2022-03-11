@@ -25,9 +25,9 @@
 
 - Aprendizagem supervisionada:
   - Aprendizado baseado em instâncias: k-vizinhos
-  - Teorida da decisão Bayesiana
-  - Árvore de decisão
-  - Redes Neurais Artificiais
+  - Teoria da decisão Bayesiana
+  - [Árvore de decisão](https://colab.research.google.com/drive/1JKeYVAviZzwbiWhbMySCDa29DDFGMdAm?usp=sharing)
+  - [Redes Neurais Artificiais](https://colab.research.google.com/drive/1wzv0X_Ze_OcTqvoISrw_j0pIsHnQ4Wg5?usp=sharing)
 - Aprendizagem não-supervisionada:
   - K-médias 
 - Aprendizagem por reforço:
