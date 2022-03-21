@@ -65,4 +65,5 @@
   - [pix2pix](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb#scrollTo=qmkj-80IHxnd)
   - [cycleGAN](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb)
 - [Redes Neurais Recorrentes (RNN) para Processamento de Linguagem Natural (PNL)](https://colab.research.google.com/drive/1UEY-LeVrLAjjpZJkCevt0MLx3pLPKuoL)
+- [Mecanismos de atenção e Transformers]()
 - Aprendizagem por reforço através de Redes Neurais Densamente Conectadas
