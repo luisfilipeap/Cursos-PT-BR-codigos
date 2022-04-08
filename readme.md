@@ -28,8 +28,7 @@
   - [Teoria da decisão Bayesiana](https://colab.research.google.com/drive/1-PS97n_61MNUwwTD0ga1_r8C5iasbK1Z?usp=sharing)
   - [Árvore de decisão](https://colab.research.google.com/drive/1JKeYVAviZzwbiWhbMySCDa29DDFGMdAm?usp=sharing)
   - [Redes Neurais Artificiais](https://colab.research.google.com/drive/1wzv0X_Ze_OcTqvoISrw_j0pIsHnQ4Wg5?usp=sharing)
-- Aprendizagem não-supervisionada:
-  - K-médias 
+- [Aprendizagem não-supervisionada](https://colab.research.google.com/drive/1YLOrTR801KwcULjIG_2BvwuYDIsJlZps?usp=sharing)
 - Aprendizagem por reforço:
 - Aprendizagem auto-supervisionada:
 - Otimização:
