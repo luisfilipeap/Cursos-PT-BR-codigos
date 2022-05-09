@@ -59,7 +59,8 @@
   - [Classificação de imagens](https://colab.research.google.com/drive/1Gma57N7rUy1RdYtLRtPlPHpjd_iygaIT?usp=sharing)
   - [Segmentação de imagens](https://colab.research.google.com/drive/1-8AYgtTgsdbkKXq8pT5B7B3avxx5pfOz?usp=sharing)
   - Detecção de objetos
-- [Style transfer](https://colab.research.google.com/drive/1ksEXOYQrAlaGLEnjXicrwn8k6EaCnwbF?usp=sharing)  
+- [Style transfer](https://colab.research.google.com/drive/1ksEXOYQrAlaGLEnjXicrwn8k6EaCnwbF?usp=sharing)
+- [Auto-Encoders (AEs)](https://colab.research.google.com/drive/1WDRPuF34bN07YSQy_HJdwvyIOX-2H8Mg?usp=sharing)
 - [Redes Neurais Generativas Adversarias (GANs)](https://colab.research.google.com/drive/1XT7EYRI1Rpon5bFVnQ_CBeYGA7m2sdcl?usp=sharing) 
   - [pix2pix](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb#scrollTo=qmkj-80IHxnd)
   - [cycleGAN](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb)
