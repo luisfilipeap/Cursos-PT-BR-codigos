@@ -63,6 +63,7 @@
   - Detecção de objetos
 - [Style transfer](https://colab.research.google.com/drive/1ksEXOYQrAlaGLEnjXicrwn8k6EaCnwbF?usp=sharing)
 - [Auto-Encoders (AEs)](https://colab.research.google.com/drive/1WDRPuF34bN07YSQy_HJdwvyIOX-2H8Mg?usp=sharing)
+- [Variational-Autoencoders (VAEs)](https://colab.research.google.com/drive/1X0eIEKfK-aI1HV9bW8jlCl12ulywsn2K?usp=sharing)
 - [Redes Neurais Generativas Adversarias (GANs)](https://colab.research.google.com/drive/1XT7EYRI1Rpon5bFVnQ_CBeYGA7m2sdcl?usp=sharing) 
   - [pix2pix](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb#scrollTo=qmkj-80IHxnd)
   - [cycleGAN](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb)
