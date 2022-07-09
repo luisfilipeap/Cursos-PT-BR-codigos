@@ -67,4 +67,5 @@
 - [Redes Neurais Generativas Adversarias (GANs)](https://colab.research.google.com/drive/1XT7EYRI1Rpon5bFVnQ_CBeYGA7m2sdcl?usp=sharing) 
   - [pix2pix](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb#scrollTo=qmkj-80IHxnd)
   - [cycleGAN](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb)
-
+- [Exercícios VAEs](https://colab.research.google.com/drive/1tWoLgLOlIwdkKi1Uk6X3Na71Ec44B0q9?usp=sharing)
+- [Exercícios GANs](https://colab.research.google.com/drive/1CJh6emKBHBrbbv6LNMaObRIfR9gb04_4?usp=sharing)
