@@ -23,7 +23,7 @@
 
 ## Aprendizagem de Máquina
 
--[Regressão Linear](https://colab.research.google.com/drive/1c0h9Xats7Ya9FLYgLztzFHXqG6tPAtDQ?usp=sharing)
+- [Regressão Linear](https://colab.research.google.com/drive/1c0h9Xats7Ya9FLYgLztzFHXqG6tPAtDQ?usp=sharing)
 - Aprendizagem supervisionada:
   - Aprendizado baseado em instâncias: k-vizinhos
   - [Teoria da decisão Bayesiana](https://colab.research.google.com/drive/1-PS97n_61MNUwwTD0ga1_r8C5iasbK1Z?usp=sharing)
