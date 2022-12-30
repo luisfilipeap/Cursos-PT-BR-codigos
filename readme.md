@@ -23,6 +23,7 @@
 
 ## Aprendizagem de Máquina
 
+- [Regressão Logística](https://colab.research.google.com/drive/1kzP09sA3dT7S45p6oPIq5jfx4nvCp3GD?usp=sharing)
 - [Regressão Linear](https://colab.research.google.com/drive/1c0h9Xats7Ya9FLYgLztzFHXqG6tPAtDQ?usp=sharing)
 - Aprendizagem supervisionada:
   - Aprendizado baseado em instâncias: k-vizinhos
