@@ -23,10 +23,11 @@
 
 ## Aprendizagem de Máquina
 
-- [Regressão Logística](https://colab.research.google.com/drive/1kzP09sA3dT7S45p6oPIq5jfx4nvCp3GD?usp=sharing)
-- [Regressão Linear](https://colab.research.google.com/drive/1c0h9Xats7Ya9FLYgLztzFHXqG6tPAtDQ?usp=sharing)
-- Aprendizagem supervisionada:
-  - Aprendizado baseado em instâncias: k-vizinhos
+
+  - Aprendizagem supervisionada:
+  - [Regressão Logística](https://colab.research.google.com/drive/1kzP09sA3dT7S45p6oPIq5jfx4nvCp3GD?usp=sharing)
+  - [Regressão Linear](https://colab.research.google.com/drive/1c0h9Xats7Ya9FLYgLztzFHXqG6tPAtDQ?usp=sharing)
+  - [Aprendizado baseado em instâncias: k-vizinhos](https://colab.research.google.com/drive/1PhJgzjJzse5q-76ho-UPpEa2WIsNT46F?usp=sharing)
   - [Teoria da decisão Bayesiana](https://colab.research.google.com/drive/1-PS97n_61MNUwwTD0ga1_r8C5iasbK1Z?usp=sharing)
   - [Árvore de decisão](https://colab.research.google.com/drive/1JKeYVAviZzwbiWhbMySCDa29DDFGMdAm?usp=sharing)
   - [Redes Neurais Artificiais](https://colab.research.google.com/drive/1wzv0X_Ze_OcTqvoISrw_j0pIsHnQ4Wg5?usp=sharing)
